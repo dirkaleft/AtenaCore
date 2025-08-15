@@ -28,3 +28,5 @@ check `/playground` for live demos
 
 ## notes
 breaking changes tracked in HISTORY.rst (not semver compliant)
+
+# PR Update: 2025-10-26 13:40:14
